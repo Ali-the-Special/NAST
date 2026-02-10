@@ -1,3 +1,3 @@
 # NAST
 
-- **Figure / example PDF:** [evaluation_benchmark.pdf](assets/evaluation_benchmark.pdf)
+![Affirmative–Negation Gap Example](assets/figures/evaluation_benchmark.png)
