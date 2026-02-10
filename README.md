@@ -12,7 +12,6 @@ This repository provides:
 - ✅ Construction code for the **contextual clinical negation dataset**
 - ✅ Causal tracing (CTE) implementation for CLIP-based models
 - ✅ Evaluation pipelines for retrieval and claim-ranking tasks
-- ⏳ (Fine-tuning code will be released separately)
 
 ---
 
