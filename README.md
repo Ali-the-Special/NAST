@@ -56,24 +56,18 @@ nast-negation-medvlm/
 │   ├── validate_jsonl.py
 │   └── make_splits_patient_level.py
 │
-├── experiments/
-│   ├── eval_medvlms.sh
-│   └── run_causal_tracing.sh
-│
 ├── data/
 │   ├── benchmarks/
 │   │   ├── mednega_cxr_eval/
 │   │   └── contextual_negation/
 │   └── mappings/
 │
-├── notebooks/
-│
 ├── docs/
 │   ├── benchmark.md
 │   ├── data_card.md
 │   └── causal_tracing.md
 │
-└── private/  # fine-tuning code not released
+└── private/ 
   </pre>
 
 ![Affirmative–Negation Gap Example](assets/figures/evaluation_benchmark.png)
