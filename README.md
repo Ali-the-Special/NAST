@@ -33,39 +33,6 @@ You must obtain access through the official MIMIC-CXR process.
 
 ## 📂 Repository Structure
 
-nast-negation-medvlm/
-│
-├── data/
-│ ├── benchmarks/
-│ │ ├── mednega_cxr_eval/
-│ │ └── contextual_negation/
-│ └── mappings/
-│
-├── scripts/
-│ ├── build_eval_benchmark.py
-│ ├── build_contextual_dataset.py
-│ ├── validate_jsonl.py
-│ └── make_splits_patient_level.py
-│
-├── src/nast/
-│ ├── evaluation/
-│ ├── causal_tracing/
-│ ├── models/
-│ └── utils/
-│
-├── experiments/
-│ ├── eval_medvlms.sh
-│ └── run_causal_tracing.sh
-│
-├── notebooks/
-│
-├── docs/
-│ ├── benchmark.md
-│ ├── data_card.md
-│ └── causal_tracing.md
-│
-├── requirements.txt
-├── pyproject.toml
-└── README.md
+<pre> ```text nast-negation-medvlm/ │ ├── data/ │ ├── benchmarks/ │ │ ├── mednega_cxr_eval/ │ │ └── contextual_negation/ │ └── mappings/ │ ├── scripts/ │ ├── build_eval_benchmark.py │ ├── build_contextual_dataset.py │ ├── validate_jsonl.py │ └── make_splits_patient_level.py │ ├── src/nast/ │ ├── evaluation/ │ ├── causal_tracing/ │ ├── models/ │ └── utils/ │ ├── experiments/ │ ├── eval_medvlms.sh │ └── run_causal_tracing.sh │ ├── notebooks/ │ ├── docs/ │ ├── benchmark.md │ ├── data_card.md │ └── causal_tracing.md │ ├── private/ # (fine-tuning code not released yet) │ ├── requirements.txt ├── pyproject.toml └── README.md ``` </pre>
 
 ![Affirmative–Negation Gap Example](assets/figures/evaluation_benchmark.png)
