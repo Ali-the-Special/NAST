@@ -33,6 +33,7 @@ You must obtain access through the official MIMIC-CXR process.
 
 ## 📂 Repository Structure
 
+<pre>
 nast-negation-medvlm/
 │
 ├── README.md
@@ -73,5 +74,6 @@ nast-negation-medvlm/
 │   └── causal_tracing.md
 │
 └── private/  # fine-tuning code not released
+  </pre>
 
 ![Affirmative–Negation Gap Example](assets/figures/evaluation_benchmark.png)
