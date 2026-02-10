@@ -1,3 +1,3 @@
 # NAST
 
-- **Figure / example PDF:** [med_vlms_example_performance_v2.1.pdf](assets/med_vlms_example_performance_v2.1.pdf)
+- **Figure / example PDF:** [evaluation_benchmark.pdf](assets/evaluation_benchmark.pdf)
